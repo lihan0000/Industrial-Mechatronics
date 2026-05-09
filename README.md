@@ -1,2 +1,2 @@
-# Industrial-Mechatronics
-Mechanical structural design and physical constraint evaluation
+![Three Wheel Fusion](Docs/THREEWHEELS_Fusion.png)
+![Steer Wheel Fusion](Docs/STEERCHASSIS_Fusion.png)
